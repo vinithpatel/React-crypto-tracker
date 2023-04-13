@@ -1,0 +1,38 @@
+.crypto-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px 10px 20px;
+}
+.crypto-type-container {
+  display: flex;
+  align-items: center;
+}
+.currency-image {
+  height: 25px;
+}
+.currency-name {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-left: 10px;
+  color: #ffffff;
+}
+.value-card {
+  display: flex;
+  align-items: center;
+}
+.currency-usd {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #ffffff;
+  width: 70px;
+}
+.currency-euro {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-left: 15px;
+  color: #ffffff;
+  width: 70px;
+}
